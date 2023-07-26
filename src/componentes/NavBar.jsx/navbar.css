@@ -1,0 +1,26 @@
+.NavBar {
+    width: 100%;
+    height: 80px;
+    background: black;
+}
+
+.NavBar-logo{
+    width: 100%;
+    height: 80px;
+    background: black;
+    display: grid;
+    grid-column: auto auto auto auto;
+    padding: 10px;
+}
+
+.Categorias{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: space-between;
+    gap: 10px;
+    
+}
+
+
+

@@ -35,4 +35,17 @@
   to {
     transform: rotate(360deg);
   }
+
+  
+}
+
+.cart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.img-cart {
+  width: 16%;
+  height: 200px;
 }
