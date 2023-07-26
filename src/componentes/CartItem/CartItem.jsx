@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom"
 
-export const CardItem = ({id, name, img, price, stock}) => {
+export const CartItem = ({id, name, img, price, stock}) => {
     return (
         <article className="CardItem">
             <header className="Header">
